@@ -1,0 +1,16 @@
+.opleidingen{
+  display: flex;
+  position: fixed;
+  flex-direction: column;
+  justify-content: center;
+  color: white;
+  font-size: 12px;
+
+  top: 230px;
+  left: 700px;
+
+}
+
+.opleidingen-title{
+  margin-bottom: 25px;
+}
