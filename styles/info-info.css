@@ -1,0 +1,18 @@
+
+.item-1{
+ grid-area: 2 / 2;
+}
+
+.title{
+  color: white;
+}
+
+.text{
+  color: white;
+  font-size: 10px;
+}
+
+.item-2{
+  grid-area: 4 / 2 ;
+}
+
