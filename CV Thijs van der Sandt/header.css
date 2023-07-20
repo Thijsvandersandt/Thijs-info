@@ -1,0 +1,58 @@
+.header{
+  position: fixed;
+  background-color: #A2B2EE;
+  color: black;
+
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+
+  position: fixed;
+  box-shadow: 1px 1px 7px #5F7ADB; 
+}
+
+.header-link{
+  display: flex;
+  position: fixed;
+
+  top: 15px;
+  left: 600px;
+}
+
+.button-link{
+  position: fixed;
+  display: flex;
+  align-items: center;
+  display: table-row;
+  margin-left: 1065px;
+  
+}
+
+.button-home{
+  background-color: #2E3239;
+  color: #5f7adb;
+  cursor: pointer;
+  border: none;
+
+  border-radius: 3px;
+
+
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+.button-home:hover{
+  opacity: 0.75;
+}
+
+.button-home:active{
+  opacity: 0.5;
+}

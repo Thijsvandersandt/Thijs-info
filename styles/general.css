@@ -1,0 +1,17 @@
+.general{
+  background-color: #26292B;
+  font-family: roboto, arial;
+  height: 1000px;
+}
+
+
+.container{
+  display: grid;
+  grid-template-rows: 100px, 1fr, 100px ;
+  grid-template-columns: 200px, 1fr, 200px;
+  margin-top: 50px;
+}
+
+
+
+
